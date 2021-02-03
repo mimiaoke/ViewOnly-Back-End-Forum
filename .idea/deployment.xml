@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Edinburgh" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Edinburgh">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/forum" local="$PROJECT_DIR$/Script" web="/forum" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

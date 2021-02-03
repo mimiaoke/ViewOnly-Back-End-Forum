@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8057e0fd-2969-4741-bdf8-5b1d3ec95380" name="Edinburgh" url="http://lunahu.edinburgh.domains">
+        <fileTransfer rootFolder="/home/lunahued" accessType="SFTP" host="lunahu.edinburgh.domains" port="22" sshConfigId="29b1565f-49cc-4660-894c-2632a6c37ff0" sshConfig="lunahued@lunahu.edinburgh.domains:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

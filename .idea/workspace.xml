@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="756badc4-779f-42ef-94fe-822f657051de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1ntfHq5xTJMQ9WDuLfeBrzWVX7E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="756badc4-779f-42ef-94fe-822f657051de" name="Default Changelist" comment="" />
+      <created>1612214223630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612214223630</updated>
+      <workItem from="1612214225087" duration="3106000" />
+      <workItem from="1612236681986" duration="11879000" />
+      <workItem from="1612264248502" duration="6825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Deployment" timestamp="1612239826740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Deployment/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1612239826740" />
+    <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1612217289318" />
+    <state x="304" y="102" key="#SSH_Configurations" timestamp="1612214383913">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="304" y="102" key="#SSH_Configurations/0.0.1440.900@0.0.1440.900" timestamp="1612214383913" />
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612214837368">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1612214837368" />
+    <state x="421" y="82" width="624" height="735" key="find.popup" timestamp="1612271419159">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="82" width="624" height="735" key="find.popup/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1612271419159" />
+    <state x="592" y="348" key="publish.login" timestamp="1612239871792">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="592" y="348" key="publish.login/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1612239871792" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1612267723976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1612267723976" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1612271412401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1612271412401" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.25.1440.811/-273.-1055.1920.1055@0.25.1440.811" timestamp="1612269374367" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Script/themes/wowonder/layout/timeline/content.phtml</url>
+          <line>216</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
